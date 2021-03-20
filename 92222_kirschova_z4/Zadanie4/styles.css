@@ -1,0 +1,122 @@
+*{
+    margin:0;
+}
+header{
+    background-color: #07004e;
+    color:white;
+    padding:20px 0;
+    text-align:center;
+}
+header h1 {
+    padding-bottom: 15px;
+}
+
+footer {
+    font-weight:bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #07004e;
+    color:white;
+}
+
+body {
+    font-family: 'Calibri Light', helvetica, arial, verdana, sans, sans-serif;
+    font-size:1em;
+}
+
+/*nadpis - pridany kvoli warningu "Section lacks heading", na stranke nie je viditelny*/
+.heading-to-hide{
+    display:none;
+}
+
+/*menu*/
+nav{
+    margin-top:20px;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+
+}
+nav li {
+    padding: 0;
+    display: inline;
+    float: left;
+    width:10%;
+}
+.menu-item1, .menu-item2 {
+    border-left:2px solid white;
+    border-right:2px solid white;
+}
+nav li a {
+    text-decoration: none;
+    font-weight:bold;
+    text-align: center;
+    padding:5px;
+    margin:0;
+    display: block;
+    color: white;
+}
+nav li a:hover,nav li .active {
+    background-color: gray;
+    color: white;
+}
+
+#main-section {
+    padding:20px;
+    margin: 0 auto 0 auto;
+    width:100%;
+    background-color:white;
+}
+
+input,button {
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+form,#buttons {
+    display: flex;
+    width:80%;
+    margin: 20px auto;
+    justify-content:center;
+}
+
+button {
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius:20px;
+    width: 20%;
+    margin:0 5px;
+    background-color: #a9a9a9;
+}
+button:hover,input:hover{
+    opacity:0.7;
+    cursor: pointer;
+}
+
+.graph{
+    margin:50px auto;
+    width:900px;
+    
+    height:1000px;
+}
+#graph4{
+    height:600px;
+}
+
+input {
+    color: white;
+    padding: 12px;
+    border: none;
+    width: 20%;
+    margin:0 5px;
+    background-color: #07004e;
+}

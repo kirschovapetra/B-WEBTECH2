@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0545e408-822d-4a22-85cb-d05739dc4b48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZSUUveiALk2bmbM2i7aASEEAUB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Zadanie5" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0545e408-822d-4a22-85cb-d05739dc4b48" name="Default Changelist" comment="" />
+      <created>1584832007560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584832007560</updated>
+      <workItem from="1584832008987" duration="17099000" />
+      <workItem from="1584894433261" duration="19620000" />
+      <workItem from="1585082917865" duration="221000" />
+      <workItem from="1585083205100" duration="8911000" />
+      <workItem from="1585125214045" duration="16415000" />
+      <workItem from="1585143029563" duration="59554000" />
+      <workItem from="1585251279844" duration="600000" />
+      <workItem from="1585297036628" duration="10443000" />
+      <workItem from="1585309484477" duration="2727000" />
+      <workItem from="1585316423658" duration="32000" />
+      <workItem from="1585685475033" duration="1226000" />
+      <workItem from="1585775276939" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Deployment" timestamp="1584832272539">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1584832272539" />
+    <state x="275" y="22" key="#SQL_Dialects" timestamp="1584913188132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#SQL_Dialects/0.0.1366.728@0.0.1366.728" timestamp="1584913188132" />
+    <state x="485" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584910941696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="485" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584910941696" />
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585082935792">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="99" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.728@0.0.1366.728" timestamp="1585082935792" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585249535973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1585249535973" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1585775299581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585775299581" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1585249291301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1585249291301" />
+    <state x="120" y="12" width="1150" height="716" key="SettingsEditor" timestamp="1584913545020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="120" y="12" width="1150" height="716" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584913545020" />
+    <state x="509" y="94" key="ftp.server.browser" timestamp="1584832264986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="509" y="94" key="ftp.server.browser/0.0.1366.728@0.0.1366.728" timestamp="1584832264986" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585171450808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585171450808" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1585246458975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1585246458975" />
+  </component>
+</project>

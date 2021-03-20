@@ -1,0 +1,49 @@
+body { font-family: calibri,verdana,arial, helvetica, sans, sans-serif;}
+header{ padding: 8px 0;}
+footer {padding: 4px 0;}
+header, footer {
+    background-color: #58a8a1;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+h3 {
+    margin: 10px 0;
+    font-size: 1.5em;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+}
+a:hover { color: #aeaeae;}
+
+.active {background-color: #6cc4bd;}
+
+#output {display:none;}
+
+.location-output,.weather-output {
+    display:none;
+    width:35%;
+    margin: 20px auto;
+    font-size: 1.1em;
+}
+
+.table-output {
+   width:60%;
+    margin-bottom: 10px;
+}
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+#mapid {
+    height: 400px;
+    width:100%;
+    margin: 10px auto;
+}
+.modal-table {
+    width:80%;
+    margin:10px auto;
+}

@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^api/names?([0-9a-zA-Z_-]*)$ api.php?search=name&$1 [QSA,L]
+RewriteRule ^api/dates?([0-9a-zA-Z_-]*)$ api.php?search=date&$1 [QSA,L]
+RewriteRule ^api/other?([0-9a-zA-Z_-]*)$ api.php?search=other&$1 [QSA,L]
+RewriteRule ^api/insert?([0-9a-zA-Z_-]*)$ api.php?insert=name&$1 [QSA,L]

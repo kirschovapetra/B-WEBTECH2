@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="147.175.121.210" id="7f9811eb-ed5c-4d20-8763-df5cbfe8471f" port="2256" customName="WEBTECH" nameFormat="CUSTOM" username="xkirschova" />
+      <sshConfig authType="PASSWORD" host="147.175.121.210" id="837d7b85-475a-4390-99ec-6b8540a232d9" port="2256" customName="WEBTECH" nameFormat="CUSTOM" username="xkirschova" />
+    </configs>
+  </component>
+</project>

@@ -1,0 +1,172 @@
+*{
+	
+	margin:0;
+}
+header{
+	background-color: #10074C;
+	color:white;
+	padding:20px 0;
+	text-align:center;
+}
+header h1 {
+	padding-bottom: 15px;
+}
+
+footer {
+    font-weight:bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+	background-color: #110857;
+	color:white;
+}
+
+body {
+	background-color:lightgrey;
+	font-family: 'Calibri Light', helvetica, arial, verdana, sans, sans-serif;
+	font-size:1em;
+}
+
+/*nadpis - pridany kvoli warningu "Section lacks heading", na stranke nie je viditelny*/
+.heading-to-hide{
+	display:none;
+}
+
+/*menu*/
+nav{
+	font-size: 1em;
+}
+nav ul {
+    list-style-type: none;  
+    padding: 0;
+    overflow: hidden;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+
+}
+nav li {
+	padding: 0;
+    display: inline;
+    float: left;
+	width:20%;
+}
+
+.menu-item1 {
+	border-left:2px solid #F1EFE3;
+}
+.menu-item2 {
+	border-left:2px solid #F1EFE3;
+	border-right:2px solid #F1EFE3;
+}
+
+
+nav li a {
+	text-decoration: none;
+	font-weight:bold;
+    text-align: center;
+    padding:5px;
+	margin:0;
+	display: block;
+	color: white;	
+}
+nav li a:hover {
+    background-color: white;
+    color: gray;
+}
+nav li a:active {
+    background-color: black;
+}
+
+
+#main-section {
+	padding:20px 0 0 0;
+	margin: 0 auto 0 auto;
+	width:75%;
+	height:500px;
+	background-color:white;
+}
+
+
+table {
+	font-size: 1.2vw;
+	font-weight: bold;
+	text-align: center;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    background-color: #E8E8E8;
+}
+
+thead {
+    border: 1.5px solid black;
+    border-collapse: collapse;
+    background-color: dimgray;
+    color: white;
+}
+tr, td, th {
+	border: 1px solid black;
+    border-collapse: collapse;
+}
+
+thead tr td:hover {
+	opacity: 0.7;
+	cursor: pointer;
+}
+
+label{
+    font-weight:bold;
+    display: block;
+}
+input {
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.form-item{
+    display:flex;
+    margin:10px auto;
+	justify-content: center;
+	flex-direction:column;
+	width:50%;
+}
+
+input[type=submit] {
+	background-color: grey;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius:20px;
+    width: 100%;
+}
+input[type=submit]:hover{
+    opacity:0.7;
+    cursor: pointer;
+}
+.submit-item{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:20%;
+}
+
+.folder a {
+	text-decoration: none;
+	font-weight:bold;
+	color: purple;
+	padding-left:20%;
+	padding-right:20%;
+}
+.folder a:hover {
+	color: green;
+	cursor: pointer;
+}
+.folder:hover {
+	color: green;
+	background-color:white;
+	cursor: pointer;
+}
+

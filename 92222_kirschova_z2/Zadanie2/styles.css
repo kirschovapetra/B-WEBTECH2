@@ -1,0 +1,101 @@
+/*vseobecne*/
+*{
+    margin:0;
+}
+header{
+    background-color: #4c1f49;
+    color:white;
+    padding:20px 0;
+    text-align:center;
+}
+header h1 {
+    padding-bottom: 15px;
+}
+footer {
+    font-weight:bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #4c1f49;
+    color:white;
+    margin-bottom: 0;
+}
+body {
+    background-color:lightgrey;
+    font-family: 'Calibri Light', helvetica, arial, verdana, sans, sans-serif;
+    font-size:1em;
+}
+#chairs-div{ margin-bottom:50px;}
+/*nadpis - pridany kvoli warningu "Section lacks heading", na stranke nie je viditelny*/
+.heading-to-hide{
+    display:none;
+}
+#main-section{
+    width:80%;
+    margin:auto;
+}
+h2{
+    margin:20px auto;
+    text-align: center;
+}
+/*menu*/
+nav{
+    font-size: 1em;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+
+}
+nav li {
+    padding: 0;
+    display: inline;
+    float: left;
+    width:20%;
+}
+.menu-item1, .menu-item2 {
+    border-left:2px solid #F1EFE3;
+    border-right:2px solid #F1EFE3;
+}
+nav li a {
+    text-decoration: none;
+    font-weight:bold;
+    text-align: center;
+    padding:5px;
+    margin:0;
+    display: block;
+    color: white;
+}
+nav li a:hover {
+    background-color: white;
+    color: gray;
+}
+
+/*tabulky*/
+.dataTables_filter {display:none;}
+#tables{ margin:10px 0 20px 10px;}
+
+/*legenda k tabulke*/
+.grey td, .greyLegend {
+    background-color: #515151 !important;
+    color: white !important;
+}
+.white td, .whiteLegend {
+    background-color: white !important;
+    color: #515151 !important;
+}
+#legend { margin: 10px 0;}
+#legend tr td{ padding: 8px 10px;}
+
+/*formular*/
+form { margin:10px 0px 5px 10px;}
+input { box-sizing: border-box;}
+select{width:10%;}
+.form-div {margin:20px 0 0 0;}
+
+#status{ margin-bottom:30px; }

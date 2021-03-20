@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ffcba480-bb39-43c2-aae4-6f0c4a27fd48" name="webtech" url="http://147.175.121.210:8056">
+        <fileTransfer host="147.175.121.210" port="2256" rootFolder="/home/xkirschova/public_html/zad2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2256" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
